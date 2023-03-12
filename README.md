@@ -7,3 +7,7 @@ In this repository, you will find all the necessary information, code, and data 
 We will add a detailed description of our experimental setup and configuration, along with the results and analysis of our experiments. You will find information on the system requirements and dependencies needed to run our experiments and the necessary steps to reproduce our results.
 
 We hope this repository will serve as a useful resource for researchers, students, and practitioners in the fields of networked video streaming, video codecs, and QoS optimization. If you have any questions or comments, feel free to reach out to us via skeshvadi@tru.ca .
+
+## Updates
+
+As of March 12, 2023, we have added PSNR scripts to the repository.

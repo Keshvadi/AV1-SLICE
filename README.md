@@ -8,6 +8,23 @@ We will add a detailed description of our experimental setup and configuration, 
 
 We hope this repository will serve as a useful resource for researchers, students, and practitioners in the fields of networked video streaming, video codecs, and QoS optimization. If you have any questions or comments, feel free to reach out to us via skeshvadi@tru.ca .
 
+## Installation 
+
+```
+pip3 install .
+```
+
+## Run
+
+```
+dash-emulator.py <MPD_URL>
+```
+
+## Help
+```
+dash-emulator.py -h
+```
+
 ## Updates
 
 As of March 12, 2023, we have added PSNR scripts to the repository.
